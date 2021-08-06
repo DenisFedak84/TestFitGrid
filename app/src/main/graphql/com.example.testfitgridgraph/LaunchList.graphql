@@ -1,0 +1,8 @@
+query launchList{
+  launches{
+    launches{
+      id
+      site
+    }
+  }
+}
